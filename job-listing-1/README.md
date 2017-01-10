@@ -1,6 +1,6 @@
 # README
 
-第二周作业
+第一周作业
 
 Things you may want to cover:
 
